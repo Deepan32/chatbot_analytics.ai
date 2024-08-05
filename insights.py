@@ -7,7 +7,6 @@ from sklearn.decomposition import LatentDirichletAllocation
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
 # Clean the text data
 def clean_text(text):
     text = re.sub(r'http\S+', '', text)  # Remove URLs
