@@ -123,5 +123,80 @@
                 "message": "Thank you!"
             }
         ]
+    },
+    {
+        "customer_id": "C006",
+        "chat_history": [
+            {
+                "timestamp": "2024-07-05T16:45:00Z",
+                "message": "Hi, do you have Winter jackets ?"
+            },
+            {
+                "timestamp": "2024-07-05T16:46:00Z",
+                "agent_message": "Hello! Yes, we currently have a 20% discount on all summer wear."
+            },
+            {
+                "timestamp": "2024-07-05T16:47:00Z",
+                "message": "That's great! How can I apply the discount?"
+            },
+            {
+                "timestamp": "2024-07-05T16:48:00Z",
+                "agent_message": "You can use the code SUMMER20 at checkout to avail the discount."
+            },
+            {
+                "timestamp": "2024-07-05T16:49:00Z",
+                "message": "Thank you!"
+            }
+        ]
+    },
+    {
+        "customer_id": "C005",
+        "chat_history": [
+            {
+                "timestamp": "2024-07-05T16:45:00Z",
+                "message": "Do you have some red jackets for winter "
+            },
+            {
+                "timestamp": "2024-07-05T16:46:00Z",
+                "agent_message": "Hello! Yes, we currently have a 20% discount on all summer wear "
+            },
+            {
+                "timestamp": "2024-07-05T16:47:00Z",
+                "message": "That's great! How can I apply the discount?"
+            },
+            {
+                "timestamp": "2024-07-05T16:48:00Z",
+                "agent_message": "You can use the code SUMMER20 at checkout to avail the discount."
+            },
+            {
+                "timestamp": "2024-07-05T16:49:00Z",
+                "message": "Thank you!"
+            }
+        ]
+    },
+    {
+        "customer_id": "C005",
+        "chat_history": [
+            {
+                "timestamp": "2024-07-05T16:45:00Z",
+                "message": "Hi, do you have stylish blue jackets"
+            },
+            {
+                "timestamp": "2024-07-05T16:46:00Z",
+                "agent_message": "Hello! Yes, we currently have a 20% discount going on as well"
+            },
+            {
+                "timestamp": "2024-07-05T16:47:00Z",
+                "message": "That's great! How can I apply the discount?"
+            },
+            {
+                "timestamp": "2024-07-05T16:48:00Z",
+                "agent_message": "You can use the code SUMMER20 at checkout to avail the discount."
+            },
+            {
+                "timestamp": "2024-07-05T16:49:00Z",
+                "message": "Thank you!"
+            }
+        ]
     }
 ]
